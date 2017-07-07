@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shared Preference Contacts</string>
+    <string name="TextView_Contact">Insert Your Contact</string>
+    <string name="EditText_name">Contact Name</string>
+    <string name="TextView_telephone">Telephone Number</string>
+    <string name="EditText_phone">07123456789</string>
+    <string name="btn_new_contact">New Contact</string>
+    <string name="btn_retrieve_contact">Retrieve Contact</string>
+</resources>
